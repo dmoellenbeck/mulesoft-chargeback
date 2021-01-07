@@ -1,0 +1,161 @@
+[
+  {
+"versionId": "5fbc64ca5becd03d4c814840",
+"domain": "order-sapi",
+"fullDomain": "order-sapi.us-e2.cloudhub.io",
+"properties": {
+"anypoint.platform.config.analytics.agent.enabled": "false"
+},
+"propertiesOptions": {},
+"status": "STARTED",
+"workers": {
+"type": {
+"name": "Micro",
+"weight": 0.1,
+"cpu": "0.1 vCores",
+"memory": "500 MB memory"
+},
+"amount": 1,
+"remainingOrgWorkers": 0.30000000000000004,
+"totalOrgWorkers": 0.5
+},
+"lastUpdateTime": 1606182212442,
+"fileName": "order-sapi.jar",
+"muleVersion": {
+"version": "4.3.0",
+"updateId": "5fa15c678772f85eea23dbc9",
+"latestUpdateId": "5fa15c678772f85eea23dbc9",
+"endOfSupportDate": 1667347200000
+},
+"region": "us-east-2",
+"persistentQueues": false,
+"persistentQueuesEncryptionEnabled": false,
+"persistentQueuesEncrypted": false,
+"monitoringEnabled": true,
+"monitoringAutoRestart": true,
+"staticIPsEnabled": false,
+"hasFile": true,
+"secureDataGatewayEnabled": false,
+"loggingNgEnabled": true,
+"loggingCustomLog4JEnabled": false,
+"cloudObjectStoreRegion": "us-east-2",
+"insightsReplayDataRegion": "us-east-2",
+"isDeploymentWaiting": false,
+"deploymentGroup": {
+"id": "5ac685b0de9e5022ac802745",
+"name": "US East (Ohio)"
+},
+"updateRuntimeConfig": false,
+"trackingSettings": {
+"trackingLevel": "DISABLED"
+},
+"logLevels": [],
+"ipAddresses": [],
+},
+  {
+"versionId": "5fbc91475779315c2cc0d447",
+"domain": "mobile-order-api",
+"fullDomain": "mobile-order-api.us-e2.cloudhub.io",
+"properties": {
+"anypoint.platform.config.analytics.agent.enabled": "false"
+},
+"propertiesOptions": {},
+"status": "STARTED",
+"workers": {
+"type": {
+"name": "Micro",
+"weight": 0.1,
+"cpu": "0.1 vCores",
+"memory": "500 MB memory"
+},
+"amount": 1,
+"remainingOrgWorkers": 0.30000000000000004,
+"totalOrgWorkers": 0.5
+},
+"lastUpdateTime": 1606193612449,
+"fileName": "mobile-order-api.jar",
+"muleVersion": {
+"version": "4.3.0",
+"updateId": "5fa15c678772f85eea23dbc9",
+"latestUpdateId": "5fa15c678772f85eea23dbc9",
+"endOfSupportDate": 1667347200000
+},
+"region": "us-east-2",
+"persistentQueues": false,
+"persistentQueuesEncryptionEnabled": false,
+"persistentQueuesEncrypted": false,
+"monitoringEnabled": true,
+"monitoringAutoRestart": true,
+"staticIPsEnabled": false,
+"hasFile": true,
+"secureDataGatewayEnabled": false,
+"loggingNgEnabled": true,
+"loggingCustomLog4JEnabled": false,
+"cloudObjectStoreRegion": "us-east-2",
+"insightsReplayDataRegion": "us-east-2",
+"isDeploymentWaiting": false,
+"deploymentGroup": {
+"id": "5ac685b0de9e5022ac802745",
+"name": "US East (Ohio)"
+},
+"updateRuntimeConfig": false,
+"trackingSettings": {
+"trackingLevel": "DISABLED"
+},
+"logLevels": [],
+"ipAddresses": [],
+},
+  {
+"versionId": "5fbc91ad5eb308040061dcb7",
+"domain": "ecommerce-order-eapi",
+"fullDomain": "ecommerce-order-eapi.us-e2.cloudhub.io",
+"properties": {
+"anypoint.platform.config.analytics.agent.enabled": "false"
+},
+"propertiesOptions": {},
+"status": "DEPLOYING",
+"workers": {
+"type": {
+"name": "Micro",
+"weight": 0.1,
+"cpu": "0.1 vCores",
+"memory": "500 MB memory"
+},
+"amount": 1,
+"remainingOrgWorkers": 0.30000000000000004,
+"totalOrgWorkers": 0.5
+},
+"lastUpdateTime": 1606193589916,
+"fileName": "ecommerce-order-eapi.jar",
+"muleVersion": {
+"version": "4.3.0",
+"updateId": "5fa15c678772f85eea23dbc9",
+"latestUpdateId": "5fa15c678772f85eea23dbc9",
+"endOfSupportDate": 1667347200000
+},
+"region": "us-east-2",
+"persistentQueues": false,
+"persistentQueuesEncryptionEnabled": false,
+"persistentQueuesEncrypted": false,
+"monitoringEnabled": true,
+"monitoringAutoRestart": true,
+"staticIPsEnabled": false,
+"hasFile": true,
+"secureDataGatewayEnabled": false,
+"loggingNgEnabled": true,
+"loggingCustomLog4JEnabled": false,
+"cloudObjectStoreRegion": "us-east-2",
+"insightsReplayDataRegion": "us-east-2",
+"isDeploymentWaiting": false,
+"deploymentGroup": {
+"id": "5ac685b0de9e5022ac802745",
+"name": "US East (Ohio)"
+},
+"updateRuntimeConfig": false,
+"trackingSettings": {
+"trackingLevel": "DISABLED"
+},
+"logLevels": [],
+"ipAddresses": [],
+}
+],
