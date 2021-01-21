@@ -7,6 +7,7 @@
 ###   5. Splunk configuration and index creation
 ###   6. Import MuleSoft POC Flows app cores JSON files in Splunk
 ###   7. Configure Splunk Dashboards for application level counts and chargeback for clients
+###   8. Call Ecom and Mobile Experience APIs passing correlation id in header
   
   Let's get Started !!!!
 
@@ -83,4 +84,6 @@ https://dev.splunk.com/enterprise/dev_license
 
 ![](https://github.com/mulesoft-consulting/mulesoft-chargeback/blob/main/Dashboard.png)
 ![](https://github.com/mulesoft-consulting/mulesoft-chargeback/blob/main/Cores.png)
+
+###   8. Call Ecom and Mobile Experience APIs passing correlation id in header
 
