@@ -82,8 +82,10 @@ https://dev.splunk.com/enterprise/dev_license
    - Configure Dashboard Panel
 ![](https://github.com/mulesoft-consulting/mulesoft-chargeback/blob/main/CopyChargeBackDemoDashboardxml.png)
 
+###   8. Call Ecom and Mobile Experience APIs passing correlation id in header
+
 ![](https://github.com/mulesoft-consulting/mulesoft-chargeback/blob/main/Dashboard.png)
 ![](https://github.com/mulesoft-consulting/mulesoft-chargeback/blob/main/Cores.png)
 
-###   8. Call Ecom and Mobile Experience APIs passing correlation id in header
+
 
